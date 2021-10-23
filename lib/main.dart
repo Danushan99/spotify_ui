@@ -276,13 +276,13 @@ class HomePage extends StatelessWidget {
                           borderRadius: BorderRadius.circular(90),
                         ),
                         child: Image.asset(
-                          'assets/summerRewind.PNG',
+                          'assets/u12.jpeg',
                           filterQuality: FilterQuality.high,
                         ),
                       ),
                       const SizedBox(height: 16.0),
                       Text(
-                        "Summer Rewind",
+                        "Romantic Yuvan",
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 12,
@@ -300,13 +300,174 @@ class HomePage extends StatelessWidget {
                           borderRadius: BorderRadius.circular(90),
                         ),
                         child: Image.asset(
-                          'assets/top50italy.PNG',
+                          'assets/albmq.jpeg',
                           filterQuality: FilterQuality.high,
                         ),
                       ),
                       const SizedBox(height: 16.0),
                       Text(
-                        "Top 50 Italy",
+                        "Indie Hip Hop Tamil",
+                        style: TextStyle(
+                          color: Colors.white,
+                          fontSize: 12,
+                        ),
+                      ),
+                    ],
+                  ),
+                  const SizedBox(width: 24.0),
+                  Column(
+                    children: [
+                      Container(
+                        height: 120,
+                        width: 120,
+                        decoration: BoxDecoration(
+                          borderRadius: BorderRadius.circular(90),
+                        ),
+                        child: Image.asset(
+                          'assets/prb.jpeg',
+                          filterQuality: FilterQuality.high,
+                        ),
+                      ),
+                      const SizedBox(height: 16.0),
+                      Text(
+                        "Party Time",
+                        style: TextStyle(
+                          color: Colors.white,
+                          fontSize: 12,
+                        ),
+                      ),
+                    ],
+                  ),
+                  const SizedBox(width: 24.0),
+                  Column(
+                    children: [
+                      Container(
+                        height: 120,
+                        width: 120,
+                        decoration: BoxDecoration(
+                          borderRadius: BorderRadius.circular(90),
+                        ),
+                        child: Image.asset(
+                          'assets/new2.jpeg',
+                          filterQuality: FilterQuality.high,
+                        ),
+                      ),
+                      const SizedBox(height: 16.0),
+                      Text(
+                        "Always Raja",
+                        style: TextStyle(
+                          color: Colors.white,
+                          fontSize: 12,
+                        ),
+                      ),
+                    ],
+                  ),
+                ],
+              ),
+            ),
+            const SizedBox(height: 24.0),
+            Padding(
+              padding: const EdgeInsets.only(left: 16.0),
+              child: Text(
+                "Favorite Albums",
+                style: TextStyle(
+                  fontWeight: FontWeight.bold,
+                  fontSize: 22,
+                  color: Colors.white,
+                ),
+              ),
+            ),
+            const SizedBox(height: 24.0),
+            SingleChildScrollView(
+              scrollDirection: Axis.horizontal,
+              child: Row(
+                children: [
+                  const SizedBox(width: 16.0),
+                  Column(
+                    children: [
+                      Container(
+                        height: 120,
+                        width: 120,
+                        child: Image.asset(
+                          'assets/pradep.jpeg',
+                          filterQuality: FilterQuality.high,
+                        ),
+                      ),
+                      const SizedBox(height: 16.0),
+                      Text(
+                        "I Love PradeepKumar",
+                        style: TextStyle(
+                          color: Colors.white,
+                          fontSize: 12,
+                        ),
+                      ),
+                    ],
+                  ),
+                  const SizedBox(width: 24.0),
+                  Column(
+                    children: [
+                      Container(
+                        height: 120,
+                        width: 120,
+                        decoration: BoxDecoration(
+                          borderRadius: BorderRadius.circular(90),
+                        ),
+                        child: Image.asset(
+                          'assets/rmc.jpeg',
+                          filterQuality: FilterQuality.high,
+                        ),
+                      ),
+                      const SizedBox(height: 16.0),
+                      Text(
+                        "Tamil Romance",
+                        style: TextStyle(
+                          color: Colors.white,
+                          fontSize: 12,
+                        ),
+                      ),
+                    ],
+                  ),
+                  const SizedBox(width: 24.0),
+                  Column(
+                    children: [
+                      Container(
+                        height: 120,
+                        width: 120,
+                        decoration: BoxDecoration(
+                          borderRadius: BorderRadius.circular(90),
+                        ),
+                        child: Image.asset(
+                          'assets/prb.jpeg',
+                          filterQuality: FilterQuality.high,
+                        ),
+                      ),
+                      const SizedBox(height: 16.0),
+                      Text(
+                        "Party Time",
+                        style: TextStyle(
+                          color: Colors.white,
+                          fontSize: 12,
+                        ),
+                      ),
+                    ],
+                  ),
+                  const SizedBox(width: 24.0),
+                  Column(
+                    children: [
+                      Container(
+                        height: 120,
+                        width: 120,
+                        decoration: BoxDecoration(
+                          borderRadius: BorderRadius.circular(90),
+                        ),
+                        child: Image.asset(
+                          'assets/new2.jpeg',
+                          filterQuality: FilterQuality.high,
+                        ),
+                      ),
+                      const SizedBox(height: 16.0),
+                      Text(
+                        "Always Raja",
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 12,
