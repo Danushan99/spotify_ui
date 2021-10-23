@@ -33,6 +33,10 @@ class HomePage extends StatelessWidget {
         actions: [
           Padding(
             padding: const EdgeInsets.only(right: 8.0),
+            child: Icon(Icons.access_time_sharp),
+          ),
+          Padding(
+            padding: const EdgeInsets.only(right: 8.0),
             child: Icon(Icons.settings_outlined),
           ),
         ],
@@ -65,9 +69,11 @@ class HomePage extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Padding(
-              padding: const EdgeInsets.only(left: 16.0),
+              padding: const EdgeInsets.only(
+                left: 16.0,
+              ),
               child: Text(
-                "Good afternoon",
+                "Good Evening",
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 22,
