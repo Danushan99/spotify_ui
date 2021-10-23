@@ -138,14 +138,14 @@ class HomePage extends StatelessWidget {
                         child: ClipRRect(
                           borderRadius: BorderRadius.circular(90),
                           child: Image.asset(
-                            'assets/kendrick.jpg',
+                            'assets/govith.jpeg',
                             filterQuality: FilterQuality.high,
                           ),
                         ),
                       ),
                       const SizedBox(height: 16.0),
                       Text(
-                        "Kendrick Lamar",
+                        "Govind Vasantha",
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 12,
@@ -163,13 +163,13 @@ class HomePage extends StatelessWidget {
                           borderRadius: BorderRadius.circular(90),
                         ),
                         child: Image.asset(
-                          'assets/damn.jpg',
+                          'assets/new.jpeg',
                           filterQuality: FilterQuality.high,
                         ),
                       ),
                       const SizedBox(height: 16.0),
                       Text(
-                        "Damn",
+                        "Nan Oru Alion",
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 12,
@@ -187,13 +187,37 @@ class HomePage extends StatelessWidget {
                           borderRadius: BorderRadius.circular(90),
                         ),
                         child: Image.asset(
-                          'assets/2014.jpg',
+                          'assets/sor.jpeg',
                           filterQuality: FilterQuality.high,
                         ),
                       ),
                       const SizedBox(height: 16.0),
                       Text(
-                        "J. Cole - 2014...",
+                        "Soorarai Pottru",
+                        style: TextStyle(
+                          color: Colors.white,
+                          fontSize: 12,
+                        ),
+                      ),
+                    ],
+                  ),
+                  const SizedBox(width: 24.0),
+                  Column(
+                    children: [
+                      Container(
+                        height: 120,
+                        width: 120,
+                        decoration: BoxDecoration(
+                          borderRadius: BorderRadius.circular(90),
+                        ),
+                        child: Image.asset(
+                          'assets/kala.jpeg',
+                          filterQuality: FilterQuality.high,
+                        ),
+                      ),
+                      const SizedBox(height: 16.0),
+                      Text(
+                        "Kaala",
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 12,
@@ -228,13 +252,13 @@ class HomePage extends StatelessWidget {
                         height: 120,
                         width: 120,
                         child: Image.asset(
-                          'assets/top50global.PNG',
+                          'assets/90s.jpeg',
                           filterQuality: FilterQuality.high,
                         ),
                       ),
                       const SizedBox(height: 16.0),
                       Text(
-                        "Top 50 Global",
+                        "90's Sad Tamil",
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 12,
