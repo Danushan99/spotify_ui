@@ -437,13 +437,13 @@ class HomePage extends StatelessWidget {
                           borderRadius: BorderRadius.circular(90),
                         ),
                         child: Image.asset(
-                          'assets/prb.jpeg',
+                          'assets/u12.jpeg',
                           filterQuality: FilterQuality.high,
                         ),
                       ),
                       const SizedBox(height: 16.0),
                       Text(
-                        "Party Time",
+                        "Romantic Yuvan",
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 12,
@@ -461,13 +461,13 @@ class HomePage extends StatelessWidget {
                           borderRadius: BorderRadius.circular(90),
                         ),
                         child: Image.asset(
-                          'assets/new2.jpeg',
+                          'assets/prb.jpeg',
                           filterQuality: FilterQuality.high,
                         ),
                       ),
                       const SizedBox(height: 16.0),
                       Text(
-                        "Always Raja",
+                        "Party Time",
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 12,
