@@ -238,7 +238,7 @@ class HomePage extends StatelessWidget {
             Padding(
               padding: const EdgeInsets.only(left: 16.0),
               child: Text(
-                "Recommended for you",
+                "Recommended For You",
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 22,
