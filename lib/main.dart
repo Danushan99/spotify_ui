@@ -48,7 +48,7 @@ class HomePage extends StatelessWidget {
         items: [
           BottomNavigationBarItem(
             icon: Icon(Icons.home_filled),
-            label: "Home",
+            label: "HOME",
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.search),
