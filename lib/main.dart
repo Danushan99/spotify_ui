@@ -151,7 +151,7 @@ class HomePage extends StatelessWidget {
                       ),
                       const SizedBox(height: 16.0),
                       Text(
-                        "Govind Vasantha",
+                        "Govind Vasanthaa",
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 12,
