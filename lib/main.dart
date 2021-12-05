@@ -178,7 +178,7 @@ class HomePage extends StatelessWidget {
                         "Nan Oru Alion",
                         style: TextStyle(
                           color: Colors.white,
-                          fontSize: 12,
+                          fontSize: 13,
                         ),
                       ),
                     ],
