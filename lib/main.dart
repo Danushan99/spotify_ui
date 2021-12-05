@@ -223,7 +223,7 @@ class HomePage extends StatelessWidget {
                       ),
                       const SizedBox(height: 16.0),
                       Text(
-                        "Kaalaa",
+                        "Kaala",
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 12,
