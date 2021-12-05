@@ -207,7 +207,7 @@ class HomePage extends StatelessWidget {
                       ),
                     ],
                   ),
-                  const SizedBox(width: 24.0),
+                  const SizedBox(width: 23.0),
                   Column(
                     children: [
                       Container(
