@@ -159,7 +159,7 @@ class HomePage extends StatelessWidget {
                       ),
                     ],
                   ),
-                  const SizedBox(width: 24.0),
+                  const SizedBox(width: 25.0),
                   Column(
                     children: [
                       Container(
@@ -175,7 +175,7 @@ class HomePage extends StatelessWidget {
                       ),
                       const SizedBox(height: 16.0),
                       Text(
-                        "Nan Oru Alion",
+                        "Nan Oru Alian",
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 13,
