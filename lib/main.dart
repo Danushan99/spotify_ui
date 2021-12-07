@@ -136,8 +136,8 @@ class HomePage extends StatelessWidget {
                   Column(
                     children: [
                       Container(
-                        height: 120,
-                        width: 120,
+                        height: 121,
+                        width: 121,
                         decoration: BoxDecoration(
                           borderRadius: BorderRadius.circular(90),
                         ),
